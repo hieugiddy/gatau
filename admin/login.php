@@ -62,7 +62,7 @@
 					<i class="icon-reorder shaded"></i>
 				</a>
 
-			  	<a class="brand" href="doan-vetau/index.html">
+			  	<a class="brand" href="/">
 			  		Hệ thống quản trị Admin
 			  	</a>
 
